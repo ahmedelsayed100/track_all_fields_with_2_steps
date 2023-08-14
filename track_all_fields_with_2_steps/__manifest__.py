@@ -5,7 +5,7 @@
         Track all fields for any models with only 2 steps""",
     'author': "Ahmed Mokhtar",
     'website': "https://www.linkedin.com/in/ahmed-elsayed30",
-    'version': '15.0.0.0.1',
+    'version': '16.0.0.0.1',
     'depends': ['mail'],
 
     # always loaded
