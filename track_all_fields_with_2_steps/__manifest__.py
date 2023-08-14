@@ -11,10 +11,8 @@
     # always loaded
     'data': ['views/track_all.xml'],
     'images': ['track_all_fields_with_2_steps/static/description/icon.png',
-               'static/images/cover.png',
-               'static/images/screenshot_1.png',
-               'static/images/screenshot_2.png',
-               'static/images/screenshot_3.png',
+               'static/description/description.png',
+               'static/images/cover.png',              
                ],
     'license': "AGPL-3",
     'installable': True,
